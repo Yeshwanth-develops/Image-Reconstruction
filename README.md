@@ -8,7 +8,12 @@ Input: Image with random occlusion (black mask)
 
 Output: Reconstructed image using trained model
 
-(Add your output screenshots here in GitHub)
+<img width="398" height="135" alt="{4436EA2A-1836-4DF1-B245-F7374598E484}" src="https://github.com/user-attachments/assets/80800ebd-e8e9-489f-b6dd-475e70f5b80d" />
+
+<img width="397" height="135" alt="{44EC6539-CC60-4748-B413-484AF8F3E20D}" src="https://github.com/user-attachments/assets/b29e5ee7-429f-4d1f-b633-55acd07ea138" />
+
+<img width="397" height="135" alt="{39204590-A65B-411B-A0FD-3603F27CB338}" src="https://github.com/user-attachments/assets/bacc4ccc-45fc-43d3-ba1d-1e9266b6918b" />
+
 
 ## 📌 Project Overview
 
